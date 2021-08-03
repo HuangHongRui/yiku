@@ -1,0 +1,12 @@
+{
+  "name": "yiku",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^8.1.0"
+  },
+  "bin": {
+    "yiku": "bin/yiku"
+  }
+}
